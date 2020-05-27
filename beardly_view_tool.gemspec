@@ -8,11 +8,11 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Various view specific for application I use.}
   spec.description   = %q{Provides generated HTML data for Rails Applications}
-  spec.homepage      = "https://www.beardlysoft.com"
+  spec.homepage      = "https://beardlysoft.com"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
-  # spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
+  spec.metadata["allowed_push_host"] = "TODO: Set to 'http://rubygems.org'"
 
   spec.metadata["homepage_uri"] = spec.homepage
   # spec.metadata["source_code_uri"] = "TODO: Put your gem's public repo URL here."
